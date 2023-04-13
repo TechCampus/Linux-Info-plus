@@ -13,6 +13,7 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/TechCampus/Linux-Info-plus"><img src="https://techcampus.blog/linuxinfoplus/1.png"></a>
+  <a href="https://github.com/TechCampus/Linux-Info-plus"><img src="https://techcampus.blog/linuxinfoplus/1_en.png"></a>
   <a href="https://github.com/TechCampus/Linux-Info-plus"><img src="https://techcampus.blog/linuxinfoplus/2.png"></a>
   <a href="https://github.com/TechCampus/Linux-Info-plus"><img src="https://techcampus.blog/linuxinfoplus/3.png"></a>
   <a href="https://github.com/TechCampus/Linux-Info-plus"><img src="https://techcampus.blog/linuxinfoplus/4.png"></a>
